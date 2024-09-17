@@ -1,0 +1,19 @@
+
+
+h1{
+    text-align: center;
+    color: red;
+}
+body{
+    background-image: url('office1.jpg');
+    color: rgb(154, 145, 136);
+    background-size: cover;
+    background-blend-mode:darken;
+}
+h2{
+    color: darkblue;
+}
+h3{
+    text-decoration: underline;
+    color: aqua;
+}
